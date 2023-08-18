@@ -25,17 +25,13 @@ Additional description about the project and its features.
 - BOOTSTRAP
 - GITHUB ACTIONS
 
-## Live Demo
-
-[Live Demo Link](https://samirpaul1.github.io/WeatherApp/) :point_left:
-
 ## Getting Started
 - Follow the live demo link and enjoy the site.
 
 ### Usage
 - To get a local copy up and running follow these simple example steps.
 
-Clone the repository unto your local machine cd to the folder.
+Clone the repository unto your local machine cd it to the folder.
 
 
 ### Prerequisites
@@ -44,7 +40,7 @@ Clone the repository unto your local machine cd to the folder.
 
 ### Run tests
 
-- There is no automated tests for this project.
+- There are no automated tests for this project.
 
 ## Future features
 
@@ -52,14 +48,10 @@ Clone the repository unto your local machine cd to the folder.
 
 ## Author
 
-👤 SAMIR PAUL
-- Github: [@SamirPaul1](https://github.com/SamirPaul1) 
-- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
-- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
+👤 KARIM SUHAIL S
+- Github: https://github.com/Karimsuhail
+- Linkedin: https://www.linkedin.com/in/karimsuhail
 
-## Show your support
-
-Give a ⭐️ if you like this project!
 
 
 ## 📝 License
